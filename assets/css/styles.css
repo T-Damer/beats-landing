@@ -134,6 +134,21 @@ img {
   display: grid;
 }
 
+/*=== Scrollbar ===*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--text-color);
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: black;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--white-color);
+}
+
 /*=============== HEADER ===============*/
 .header {
   width: 100%;
