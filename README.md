@@ -12,8 +12,8 @@
 
 ## How to launch locally?
 
-Simply `git clone https://github.com/T-Damer/e-commerce-template.git`\
-Then `cd e-commerce-template` into folder\
+Simply `git clone https://github.com/T-Damer/beats-landing.git`\
+Then `cd beats-landing` into folder\
 Launch `index.html`
 
 I personally use vscode `live server` extension, so it runs on `localhost:5500`
